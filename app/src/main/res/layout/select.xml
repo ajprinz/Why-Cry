@@ -1,0 +1,247 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/grey_background"
+    tools:context=".Select">
+
+    <ImageView
+        android:id="@+id/stars"
+        android:layout_width="343dp"
+        android:layout_height="148dp"
+        android:layout_marginEnd="8dp"
+        android:layout_marginLeft="8dp"
+        android:layout_marginRight="8dp"
+        android:layout_marginStart="8dp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:srcCompat="@drawable/ic_stars" />
+
+    <ScrollView
+        android:layout_width="332dp"
+        android:layout_height="0dp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent">
+
+        <android.support.constraint.ConstraintLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+
+            <TextView
+                android:id="@+id/intro"
+                android:layout_width="332dp"
+                android:layout_height="70dp"
+                android:layout_marginTop="216dp"
+                android:background="@drawable/rounded_corners_yellow"
+                android:elevation="0dp"
+                android:gravity="center"
+                android:text="Select a Question"
+                android:textAllCaps="false"
+                android:textColor="#fff"
+                android:textSize="20sp"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintHorizontal_bias="0.493"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toTopOf="parent" />
+
+            <TextView
+                android:id="@+id/question1"
+                android:layout_width="332dp"
+                android:layout_height="111dp"
+                android:layout_marginTop="24dp"
+                android:background="@drawable/rounded_corners_white"
+                android:elevation="0dp"
+                android:justificationMode="inter_word"
+                android:onClick="question1"
+                android:clickable="true"
+                android:padding="30dp"
+                android:text="1. Does Baby currently have a clean diaper?"
+                android:textAllCaps="false"
+                android:textColor="#000"
+                android:textSize="20sp"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintHorizontal_bias="0.0"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toBottomOf="@+id/intro" />
+
+            <TextView
+                android:id="@+id/question2"
+                android:layout_width="332dp"
+                android:layout_height="146dp"
+                android:layout_marginTop="8dp"
+                android:background="@drawable/rounded_corners_white"
+                android:elevation="0dp"
+                android:justificationMode="inter_word"
+                android:onClick="question2"
+                android:padding="30dp"
+                android:text="2. Does Baby react toward your hand if you stroke their cheek or mouth?"
+                android:textAllCaps="false"
+                android:textColor="#000"
+                android:textSize="20sp"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintHorizontal_bias="0.0"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toBottomOf="@+id/question1" />
+
+            <TextView
+                android:id="@+id/question3"
+                android:layout_width="332dp"
+                android:layout_height="119dp"
+                android:layout_marginTop="8dp"
+                android:background="@drawable/rounded_corners_white"
+                android:elevation="0dp"
+                android:justificationMode="inter_word"
+                android:onClick="question3"
+                android:padding="30dp"
+                android:text="3. Are you wondering how Baby could still be hungry?"
+                android:textAllCaps="false"
+                android:textColor="#000"
+                android:textSize="20sp"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintHorizontal_bias="0.0"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toBottomOf="@+id/question2" />
+
+            <TextView
+                android:id="@+id/question4"
+                android:layout_width="332dp"
+                android:layout_height="119dp"
+                android:layout_marginTop="8dp"
+                android:background="@drawable/rounded_corners_white"
+                android:elevation="0dp"
+                android:justificationMode="inter_word"
+                android:onClick="question4"
+                android:padding="30dp"
+                android:text="4. Is Baby getting the right amount of food?"
+                android:textAllCaps="false"
+                android:textColor="#000"
+                android:textSize="20sp"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintHorizontal_bias="0.0"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toBottomOf="@+id/question3" />
+
+            <TextView
+                android:id="@+id/question5"
+                android:layout_width="332dp"
+                android:layout_height="92dp"
+                android:layout_marginTop="8dp"
+                android:background="@drawable/rounded_corners_white"
+                android:elevation="0dp"
+                android:justificationMode="inter_word"
+                android:onClick="question5"
+                android:padding="30dp"
+                android:text="5. Did Baby spit-up or vomit?"
+                android:textAllCaps="false"
+                android:textColor="#000"
+                android:textSize="20sp"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintHorizontal_bias="0.0"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toBottomOf="@+id/question4" />
+
+            <TextView
+                android:id="@+id/question6"
+                android:layout_width="332dp"
+                android:layout_height="146dp"
+                android:layout_marginTop="8dp"
+                android:background="@drawable/rounded_corners_white"
+                android:elevation="0dp"
+                android:justificationMode="inter_word"
+                android:onClick="question6"
+                android:padding="30dp"
+                android:text="6. Does baby appear to be in pain after spitting-up or vomiting?"
+                android:textAllCaps="false"
+                android:textColor="#000"
+                android:textSize="20sp"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintHorizontal_bias="0.0"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toBottomOf="@+id/question5" />
+
+            <TextView
+                android:id="@+id/question7"
+                android:layout_width="332dp"
+                android:layout_height="111dp"
+                android:layout_marginTop="8dp"
+                android:background="@drawable/rounded_corners_white"
+                android:elevation="0dp"
+                android:justificationMode="inter_word"
+                android:onClick="question8"
+                android:padding="30dp"
+                android:text="7. Is Baby pulling their legs into their abdomen?"
+                android:textAllCaps="false"
+                android:textColor="#000"
+                android:textSize="20sp"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintHorizontal_bias="0.0"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toBottomOf="@+id/question6" />
+
+            <TextView
+                android:id="@+id/question8"
+                android:layout_width="332dp"
+                android:layout_height="90dp"
+                android:layout_marginTop="8dp"
+                android:background="@drawable/rounded_corners_white"
+                android:elevation="0dp"
+                android:justificationMode="inter_word"
+                android:onClick="question9"
+                android:padding="30dp"
+                android:text="9. Has Baby burped?"
+                android:textAllCaps="false"
+                android:textColor="#000"
+                android:textSize="20sp"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintHorizontal_bias="0.0"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toBottomOf="@+id/question7" />
+
+            <TextView
+                android:id="@+id/question9"
+                android:layout_width="332dp"
+                android:layout_height="93dp"
+                android:layout_marginTop="8dp"
+                android:background="@drawable/rounded_corners_white"
+                android:elevation="0dp"
+                android:justificationMode="inter_word"
+                android:onClick="question11"
+                android:padding="30dp"
+                android:text="Other"
+                android:textAllCaps="false"
+                android:textColor="#000"
+                android:textSize="20sp"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintHorizontal_bias="0.0"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toBottomOf="@+id/question8" />
+
+            <TextView
+                android:id="@+id/spacer"
+                android:layout_width="match_parent"
+                android:layout_height="360dp"
+                android:layout_marginTop="8dp"
+                android:background="@android:color/transparent"
+                android:elevation="0dp"
+                android:gravity="center|start"
+                android:lineSpacingExtra="8sp"
+                android:padding="30dp"
+                android:paddingLeft="30dp"
+                android:paddingRight="30dp"
+                android:textAllCaps="false"
+                android:textSize="20sp"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintHorizontal_bias="0.0"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toBottomOf="@+id/question9" />
+
+        </android.support.constraint.ConstraintLayout>
+    </ScrollView>
+
+</android.support.constraint.ConstraintLayout>

@@ -1,0 +1,260 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\Users\adamj\AndroidStudioProjects\WhyCry\app\src\main\AndroidManifest.xml:2:1-45:12
+INJECTED from D:\Users\adamj\AndroidStudioProjects\WhyCry\app\src\main\AndroidManifest.xml:2:1-45:12
+INJECTED from D:\Users\adamj\AndroidStudioProjects\WhyCry\app\src\main\AndroidManifest.xml:2:1-45:12
+INJECTED from D:\Users\adamj\AndroidStudioProjects\WhyCry\app\src\main\AndroidManifest.xml:2:1-45:12
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\adamj\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0.aar\c669f732cd92979625925b44766f8b64\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\adamj\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\c5dcd9844d3cf453ee0c74ed8d0354ff\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\adamj\.gradle\caches\transforms-1\files-1.1\support-fragment-28.0.0.aar\b9a398aabe620c357129b2d846552e17\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\adamj\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-28.0.0.aar\232f59d5dd5695337daf77f5e3a4c457\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\adamj\.gradle\caches\transforms-1\files-1.1\support-core-ui-28.0.0.aar\01086b74aecc7e779271e0adfcf5c1d3\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\adamj\.gradle\caches\transforms-1\files-1.1\support-core-utils-28.0.0.aar\cf0fb3adc3cadba4d3829036508cda24\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\adamj\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-28.0.0.aar\66b11ee87a6acd1294f02e6a38365ff5\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0] C:\Users\adamj\.gradle\caches\transforms-1\files-1.1\loader-28.0.0.aar\2f94b82925ead7e71284786efdd42352\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\adamj\.gradle\caches\transforms-1\files-1.1\viewpager-28.0.0.aar\9443e29ee69348d552ad3358a8b0e44e\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\adamj\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-28.0.0.aar\a0f075891111077adce7bad279717a3f\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\adamj\.gradle\caches\transforms-1\files-1.1\drawerlayout-28.0.0.aar\04db678e5c80e551f73e21900f43b280\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\adamj\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-28.0.0.aar\97810eba4d17906c765af942f014fb73\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0] C:\Users\adamj\.gradle\caches\transforms-1\files-1.1\customview-28.0.0.aar\c8ce8e7e429639ed58f2483ff62b3ceb\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\adamj\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-28.0.0.aar\d8e7eec6deae346c70a6941f1e873121\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\adamj\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-28.0.0.aar\1ebb76e8a82ccf68303c4749ba2be256\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\adamj\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\3c579a06570a90042d5965f775780bdc\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\adamj\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\1932360001bb16ba010d1d0ebab21258\AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\adamj\.gradle\caches\transforms-1\files-1.1\cursoradapter-28.0.0.aar\e2f233c77681c91ff3554e984aa330de\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\adamj\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\2aee5e4bed2d316e2aa812cc1d11eda5\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\adamj\.gradle\caches\transforms-1\files-1.1\documentfile-28.0.0.aar\26f77423f49f04df62e72cb3224089dd\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\adamj\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-28.0.0.aar\60bcfa078b98f351b0b2d2f2b66dc6e4\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0] C:\Users\adamj\.gradle\caches\transforms-1\files-1.1\print-28.0.0.aar\19bee0895d8f3d0cd166652fbe5f6e25\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\adamj\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.1.aar\d6a0c8bfccb49057973158f76fb934cc\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\adamj\.gradle\caches\transforms-1\files-1.1\livedata-1.1.1.aar\7cb34fe010967e6c2e727b457f703ae0\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\adamj\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.1.aar\f2bcf0aa8052a888a88cf6d229a621f4\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\adamj\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\60309bfd7b146b37e47e2fdb7339fc35\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\adamj\.gradle\caches\transforms-1\files-1.1\interpolator-28.0.0.aar\8d8ffb075948ca87a4ab420574f87a0b\AndroidManifest.xml:17:1-22:12
+INJECTED from D:\Users\adamj\AndroidStudioProjects\WhyCry\app\src\main\AndroidManifest.xml:2:1-45:12
+INJECTED from D:\Users\adamj\AndroidStudioProjects\WhyCry\app\src\main\AndroidManifest.xml:2:1-45:12
+INJECTED from D:\Users\adamj\AndroidStudioProjects\WhyCry\app\src\main\AndroidManifest.xml:2:1-45:12
+	package
+		ADDED from D:\Users\adamj\AndroidStudioProjects\WhyCry\app\src\main\AndroidManifest.xml:3:5-35
+		INJECTED from D:\Users\adamj\AndroidStudioProjects\WhyCry\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Users\adamj\AndroidStudioProjects\WhyCry\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from D:\Users\adamj\AndroidStudioProjects\WhyCry\app\src\main\AndroidManifest.xml
+		ADDED from D:\Users\adamj\AndroidStudioProjects\WhyCry\app\src\main\AndroidManifest.xml:2:1-45:12
+		INJECTED from D:\Users\adamj\AndroidStudioProjects\WhyCry\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from D:\Users\adamj\AndroidStudioProjects\WhyCry\app\src\main\AndroidManifest.xml
+		ADDED from D:\Users\adamj\AndroidStudioProjects\WhyCry\app\src\main\AndroidManifest.xml:2:1-45:12
+		INJECTED from D:\Users\adamj\AndroidStudioProjects\WhyCry\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from D:\Users\adamj\AndroidStudioProjects\WhyCry\app\src\main\AndroidManifest.xml:2:11-69
+application
+ADDED from D:\Users\adamj\AndroidStudioProjects\WhyCry\app\src\main\AndroidManifest.xml:5:5-43:19
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\adamj\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\c5dcd9844d3cf453ee0c74ed8d0354ff\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\adamj\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\c5dcd9844d3cf453ee0c74ed8d0354ff\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\adamj\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\3c579a06570a90042d5965f775780bdc\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\adamj\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\3c579a06570a90042d5965f775780bdc\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\adamj\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\1932360001bb16ba010d1d0ebab21258\AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\adamj\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\1932360001bb16ba010d1d0ebab21258\AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0] C:\Users\adamj\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\3c579a06570a90042d5965f775780bdc\AndroidManifest.xml:22:18-91
+	android:supportsRtl
+		ADDED from D:\Users\adamj\AndroidStudioProjects\WhyCry\app\src\main\AndroidManifest.xml:10:9-35
+	android:label
+		ADDED from D:\Users\adamj\AndroidStudioProjects\WhyCry\app\src\main\AndroidManifest.xml:9:9-41
+	android:roundIcon
+		ADDED from D:\Users\adamj\AndroidStudioProjects\WhyCry\app\src\main\AndroidManifest.xml:8:9-54
+	android:icon
+		ADDED from D:\Users\adamj\AndroidStudioProjects\WhyCry\app\src\main\AndroidManifest.xml:7:9-43
+	android:allowBackup
+		ADDED from D:\Users\adamj\AndroidStudioProjects\WhyCry\app\src\main\AndroidManifest.xml:6:9-35
+	android:theme
+		ADDED from D:\Users\adamj\AndroidStudioProjects\WhyCry\app\src\main\AndroidManifest.xml:11:9-40
+activity#com.outpost20.whycry.Splashscreen
+ADDED from D:\Users\adamj\AndroidStudioProjects\WhyCry\app\src\main\AndroidManifest.xml:12:9-17:20
+	android:screenOrientation
+		ADDED from D:\Users\adamj\AndroidStudioProjects\WhyCry\app\src\main\AndroidManifest.xml:12:48-84
+	android:name
+		ADDED from D:\Users\adamj\AndroidStudioProjects\WhyCry\app\src\main\AndroidManifest.xml:12:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from D:\Users\adamj\AndroidStudioProjects\WhyCry\app\src\main\AndroidManifest.xml:13:13-16:29
+action#android.intent.action.MAIN
+ADDED from D:\Users\adamj\AndroidStudioProjects\WhyCry\app\src\main\AndroidManifest.xml:14:17-69
+	android:name
+		ADDED from D:\Users\adamj\AndroidStudioProjects\WhyCry\app\src\main\AndroidManifest.xml:14:25-66
+category#android.intent.category.LAUNCHER
+ADDED from D:\Users\adamj\AndroidStudioProjects\WhyCry\app\src\main\AndroidManifest.xml:15:17-77
+	android:name
+		ADDED from D:\Users\adamj\AndroidStudioProjects\WhyCry\app\src\main\AndroidManifest.xml:15:27-74
+activity#com.outpost20.whycry.MainActivity
+ADDED from D:\Users\adamj\AndroidStudioProjects\WhyCry\app\src\main\AndroidManifest.xml:18:9-23:20
+	android:screenOrientation
+		ADDED from D:\Users\adamj\AndroidStudioProjects\WhyCry\app\src\main\AndroidManifest.xml:18:48-84
+	android:name
+		ADDED from D:\Users\adamj\AndroidStudioProjects\WhyCry\app\src\main\AndroidManifest.xml:18:19-47
+activity#com.outpost20.whycry.Question1
+ADDED from D:\Users\adamj\AndroidStudioProjects\WhyCry\app\src\main\AndroidManifest.xml:24:9-27:51
+	android:screenOrientation
+		ADDED from D:\Users\adamj\AndroidStudioProjects\WhyCry\app\src\main\AndroidManifest.xml:27:13-49
+	android:parentActivityName
+		ADDED from D:\Users\adamj\AndroidStudioProjects\WhyCry\app\src\main\AndroidManifest.xml:26:13-55
+	android:name
+		ADDED from D:\Users\adamj\AndroidStudioProjects\WhyCry\app\src\main\AndroidManifest.xml:25:13-38
+activity#com.outpost20.whycry.Question2
+ADDED from D:\Users\adamj\AndroidStudioProjects\WhyCry\app\src\main\AndroidManifest.xml:28:9-84
+	android:screenOrientation
+		ADDED from D:\Users\adamj\AndroidStudioProjects\WhyCry\app\src\main\AndroidManifest.xml:28:46-82
+	android:name
+		ADDED from D:\Users\adamj\AndroidStudioProjects\WhyCry\app\src\main\AndroidManifest.xml:28:19-44
+activity#com.outpost20.whycry.Question3
+ADDED from D:\Users\adamj\AndroidStudioProjects\WhyCry\app\src\main\AndroidManifest.xml:29:9-84
+	android:screenOrientation
+		ADDED from D:\Users\adamj\AndroidStudioProjects\WhyCry\app\src\main\AndroidManifest.xml:29:46-82
+	android:name
+		ADDED from D:\Users\adamj\AndroidStudioProjects\WhyCry\app\src\main\AndroidManifest.xml:29:19-44
+activity#com.outpost20.whycry.Question4
+ADDED from D:\Users\adamj\AndroidStudioProjects\WhyCry\app\src\main\AndroidManifest.xml:30:9-84
+	android:screenOrientation
+		ADDED from D:\Users\adamj\AndroidStudioProjects\WhyCry\app\src\main\AndroidManifest.xml:30:46-82
+	android:name
+		ADDED from D:\Users\adamj\AndroidStudioProjects\WhyCry\app\src\main\AndroidManifest.xml:30:19-44
+activity#com.outpost20.whycry.Question5
+ADDED from D:\Users\adamj\AndroidStudioProjects\WhyCry\app\src\main\AndroidManifest.xml:31:9-84
+	android:screenOrientation
+		ADDED from D:\Users\adamj\AndroidStudioProjects\WhyCry\app\src\main\AndroidManifest.xml:31:46-82
+	android:name
+		ADDED from D:\Users\adamj\AndroidStudioProjects\WhyCry\app\src\main\AndroidManifest.xml:31:19-44
+activity#com.outpost20.whycry.Question6
+ADDED from D:\Users\adamj\AndroidStudioProjects\WhyCry\app\src\main\AndroidManifest.xml:32:9-84
+	android:screenOrientation
+		ADDED from D:\Users\adamj\AndroidStudioProjects\WhyCry\app\src\main\AndroidManifest.xml:32:46-82
+	android:name
+		ADDED from D:\Users\adamj\AndroidStudioProjects\WhyCry\app\src\main\AndroidManifest.xml:32:19-44
+activity#com.outpost20.whycry.Question7
+ADDED from D:\Users\adamj\AndroidStudioProjects\WhyCry\app\src\main\AndroidManifest.xml:33:9-84
+	android:screenOrientation
+		ADDED from D:\Users\adamj\AndroidStudioProjects\WhyCry\app\src\main\AndroidManifest.xml:33:46-82
+	android:name
+		ADDED from D:\Users\adamj\AndroidStudioProjects\WhyCry\app\src\main\AndroidManifest.xml:33:19-44
+activity#com.outpost20.whycry.Select
+ADDED from D:\Users\adamj\AndroidStudioProjects\WhyCry\app\src\main\AndroidManifest.xml:34:9-81
+	android:screenOrientation
+		ADDED from D:\Users\adamj\AndroidStudioProjects\WhyCry\app\src\main\AndroidManifest.xml:34:43-79
+	android:name
+		ADDED from D:\Users\adamj\AndroidStudioProjects\WhyCry\app\src\main\AndroidManifest.xml:34:19-41
+activity#com.outpost20.whycry.Question7_no
+ADDED from D:\Users\adamj\AndroidStudioProjects\WhyCry\app\src\main\AndroidManifest.xml:35:9-87
+	android:screenOrientation
+		ADDED from D:\Users\adamj\AndroidStudioProjects\WhyCry\app\src\main\AndroidManifest.xml:35:49-85
+	android:name
+		ADDED from D:\Users\adamj\AndroidStudioProjects\WhyCry\app\src\main\AndroidManifest.xml:35:19-47
+activity#com.outpost20.whycry.Question6_no
+ADDED from D:\Users\adamj\AndroidStudioProjects\WhyCry\app\src\main\AndroidManifest.xml:36:9-87
+	android:screenOrientation
+		ADDED from D:\Users\adamj\AndroidStudioProjects\WhyCry\app\src\main\AndroidManifest.xml:36:49-85
+	android:name
+		ADDED from D:\Users\adamj\AndroidStudioProjects\WhyCry\app\src\main\AndroidManifest.xml:36:19-47
+activity#com.outpost20.whycry.Question8
+ADDED from D:\Users\adamj\AndroidStudioProjects\WhyCry\app\src\main\AndroidManifest.xml:37:9-84
+	android:screenOrientation
+		ADDED from D:\Users\adamj\AndroidStudioProjects\WhyCry\app\src\main\AndroidManifest.xml:37:46-82
+	android:name
+		ADDED from D:\Users\adamj\AndroidStudioProjects\WhyCry\app\src\main\AndroidManifest.xml:37:19-44
+activity#com.outpost20.whycry.Question9
+ADDED from D:\Users\adamj\AndroidStudioProjects\WhyCry\app\src\main\AndroidManifest.xml:38:9-84
+	android:screenOrientation
+		ADDED from D:\Users\adamj\AndroidStudioProjects\WhyCry\app\src\main\AndroidManifest.xml:38:46-82
+	android:name
+		ADDED from D:\Users\adamj\AndroidStudioProjects\WhyCry\app\src\main\AndroidManifest.xml:38:19-44
+activity#com.outpost20.whycry.Question10
+ADDED from D:\Users\adamj\AndroidStudioProjects\WhyCry\app\src\main\AndroidManifest.xml:39:9-85
+	android:screenOrientation
+		ADDED from D:\Users\adamj\AndroidStudioProjects\WhyCry\app\src\main\AndroidManifest.xml:39:47-83
+	android:name
+		ADDED from D:\Users\adamj\AndroidStudioProjects\WhyCry\app\src\main\AndroidManifest.xml:39:19-45
+activity#com.outpost20.whycry.Question8_yes
+ADDED from D:\Users\adamj\AndroidStudioProjects\WhyCry\app\src\main\AndroidManifest.xml:40:9-88
+	android:screenOrientation
+		ADDED from D:\Users\adamj\AndroidStudioProjects\WhyCry\app\src\main\AndroidManifest.xml:40:50-86
+	android:name
+		ADDED from D:\Users\adamj\AndroidStudioProjects\WhyCry\app\src\main\AndroidManifest.xml:40:19-48
+activity#com.outpost20.whycry.Question11
+ADDED from D:\Users\adamj\AndroidStudioProjects\WhyCry\app\src\main\AndroidManifest.xml:41:9-85
+	android:screenOrientation
+		ADDED from D:\Users\adamj\AndroidStudioProjects\WhyCry\app\src\main\AndroidManifest.xml:41:47-83
+	android:name
+		ADDED from D:\Users\adamj\AndroidStudioProjects\WhyCry\app\src\main\AndroidManifest.xml:41:19-45
+activity#com.outpost20.whycry.Question1_no
+ADDED from D:\Users\adamj\AndroidStudioProjects\WhyCry\app\src\main\AndroidManifest.xml:42:9-87
+	android:screenOrientation
+		ADDED from D:\Users\adamj\AndroidStudioProjects\WhyCry\app\src\main\AndroidManifest.xml:42:49-85
+	android:name
+		ADDED from D:\Users\adamj\AndroidStudioProjects\WhyCry\app\src\main\AndroidManifest.xml:42:19-47
+uses-sdk
+INJECTED from D:\Users\adamj\AndroidStudioProjects\WhyCry\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from D:\Users\adamj\AndroidStudioProjects\WhyCry\app\src\main\AndroidManifest.xml
+INJECTED from D:\Users\adamj\AndroidStudioProjects\WhyCry\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\adamj\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0.aar\c669f732cd92979625925b44766f8b64\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\adamj\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0.aar\c669f732cd92979625925b44766f8b64\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\adamj\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\c5dcd9844d3cf453ee0c74ed8d0354ff\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\adamj\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\c5dcd9844d3cf453ee0c74ed8d0354ff\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\adamj\.gradle\caches\transforms-1\files-1.1\support-fragment-28.0.0.aar\b9a398aabe620c357129b2d846552e17\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\adamj\.gradle\caches\transforms-1\files-1.1\support-fragment-28.0.0.aar\b9a398aabe620c357129b2d846552e17\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\adamj\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-28.0.0.aar\232f59d5dd5695337daf77f5e3a4c457\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\adamj\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-28.0.0.aar\232f59d5dd5695337daf77f5e3a4c457\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\adamj\.gradle\caches\transforms-1\files-1.1\support-core-ui-28.0.0.aar\01086b74aecc7e779271e0adfcf5c1d3\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\adamj\.gradle\caches\transforms-1\files-1.1\support-core-ui-28.0.0.aar\01086b74aecc7e779271e0adfcf5c1d3\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\adamj\.gradle\caches\transforms-1\files-1.1\support-core-utils-28.0.0.aar\cf0fb3adc3cadba4d3829036508cda24\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\adamj\.gradle\caches\transforms-1\files-1.1\support-core-utils-28.0.0.aar\cf0fb3adc3cadba4d3829036508cda24\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\adamj\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-28.0.0.aar\66b11ee87a6acd1294f02e6a38365ff5\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\adamj\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-28.0.0.aar\66b11ee87a6acd1294f02e6a38365ff5\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\adamj\.gradle\caches\transforms-1\files-1.1\loader-28.0.0.aar\2f94b82925ead7e71284786efdd42352\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\adamj\.gradle\caches\transforms-1\files-1.1\loader-28.0.0.aar\2f94b82925ead7e71284786efdd42352\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\adamj\.gradle\caches\transforms-1\files-1.1\viewpager-28.0.0.aar\9443e29ee69348d552ad3358a8b0e44e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\adamj\.gradle\caches\transforms-1\files-1.1\viewpager-28.0.0.aar\9443e29ee69348d552ad3358a8b0e44e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\adamj\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-28.0.0.aar\a0f075891111077adce7bad279717a3f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\adamj\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-28.0.0.aar\a0f075891111077adce7bad279717a3f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\adamj\.gradle\caches\transforms-1\files-1.1\drawerlayout-28.0.0.aar\04db678e5c80e551f73e21900f43b280\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\adamj\.gradle\caches\transforms-1\files-1.1\drawerlayout-28.0.0.aar\04db678e5c80e551f73e21900f43b280\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\adamj\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-28.0.0.aar\97810eba4d17906c765af942f014fb73\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\adamj\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-28.0.0.aar\97810eba4d17906c765af942f014fb73\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\adamj\.gradle\caches\transforms-1\files-1.1\customview-28.0.0.aar\c8ce8e7e429639ed58f2483ff62b3ceb\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\adamj\.gradle\caches\transforms-1\files-1.1\customview-28.0.0.aar\c8ce8e7e429639ed58f2483ff62b3ceb\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\adamj\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-28.0.0.aar\d8e7eec6deae346c70a6941f1e873121\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\adamj\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-28.0.0.aar\d8e7eec6deae346c70a6941f1e873121\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\adamj\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-28.0.0.aar\1ebb76e8a82ccf68303c4749ba2be256\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\adamj\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-28.0.0.aar\1ebb76e8a82ccf68303c4749ba2be256\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\adamj\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\3c579a06570a90042d5965f775780bdc\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\adamj\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\3c579a06570a90042d5965f775780bdc\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\adamj\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\1932360001bb16ba010d1d0ebab21258\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\adamj\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\1932360001bb16ba010d1d0ebab21258\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\adamj\.gradle\caches\transforms-1\files-1.1\cursoradapter-28.0.0.aar\e2f233c77681c91ff3554e984aa330de\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\adamj\.gradle\caches\transforms-1\files-1.1\cursoradapter-28.0.0.aar\e2f233c77681c91ff3554e984aa330de\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\adamj\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\2aee5e4bed2d316e2aa812cc1d11eda5\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\adamj\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\2aee5e4bed2d316e2aa812cc1d11eda5\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\adamj\.gradle\caches\transforms-1\files-1.1\documentfile-28.0.0.aar\26f77423f49f04df62e72cb3224089dd\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\adamj\.gradle\caches\transforms-1\files-1.1\documentfile-28.0.0.aar\26f77423f49f04df62e72cb3224089dd\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\adamj\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-28.0.0.aar\60bcfa078b98f351b0b2d2f2b66dc6e4\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\adamj\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-28.0.0.aar\60bcfa078b98f351b0b2d2f2b66dc6e4\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\adamj\.gradle\caches\transforms-1\files-1.1\print-28.0.0.aar\19bee0895d8f3d0cd166652fbe5f6e25\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\adamj\.gradle\caches\transforms-1\files-1.1\print-28.0.0.aar\19bee0895d8f3d0cd166652fbe5f6e25\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\adamj\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.1.aar\d6a0c8bfccb49057973158f76fb934cc\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\adamj\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.1.aar\d6a0c8bfccb49057973158f76fb934cc\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\adamj\.gradle\caches\transforms-1\files-1.1\livedata-1.1.1.aar\7cb34fe010967e6c2e727b457f703ae0\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\adamj\.gradle\caches\transforms-1\files-1.1\livedata-1.1.1.aar\7cb34fe010967e6c2e727b457f703ae0\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\adamj\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.1.aar\f2bcf0aa8052a888a88cf6d229a621f4\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\adamj\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.1.aar\f2bcf0aa8052a888a88cf6d229a621f4\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\adamj\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\60309bfd7b146b37e47e2fdb7339fc35\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\adamj\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\60309bfd7b146b37e47e2fdb7339fc35\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\adamj\.gradle\caches\transforms-1\files-1.1\interpolator-28.0.0.aar\8d8ffb075948ca87a4ab420574f87a0b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\adamj\.gradle\caches\transforms-1\files-1.1\interpolator-28.0.0.aar\8d8ffb075948ca87a4ab420574f87a0b\AndroidManifest.xml:20:5-44
+INJECTED from D:\Users\adamj\AndroidStudioProjects\WhyCry\app\src\main\AndroidManifest.xml
+INJECTED from D:\Users\adamj\AndroidStudioProjects\WhyCry\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from D:\Users\adamj\AndroidStudioProjects\WhyCry\app\src\main\AndroidManifest.xml
+		ADDED from D:\Users\adamj\AndroidStudioProjects\WhyCry\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Users\adamj\AndroidStudioProjects\WhyCry\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from D:\Users\adamj\AndroidStudioProjects\WhyCry\app\src\main\AndroidManifest.xml
+		ADDED from D:\Users\adamj\AndroidStudioProjects\WhyCry\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Users\adamj\AndroidStudioProjects\WhyCry\app\src\main\AndroidManifest.xml

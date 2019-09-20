@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.outpost20.whycry"
+    android:versionCode="1"
+    android:versionName="1.0" >
+
+    <uses-sdk
+        android:minSdkVersion="16"
+        android:targetSdkVersion="28" />
+
+    <application
+        android:allowBackup="true"
+        android:appComponentFactory="android.support.v4.app.CoreComponentFactory"
+        android:debuggable="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:testOnly="true"
+        android:theme="@style/AppTheme" >
+        <activity
+            android:name="com.outpost20.whycry.Splashscreen"
+            android:screenOrientation="portrait" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="com.outpost20.whycry.MainActivity"
+            android:screenOrientation="portrait" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="com.outpost20.whycry.Question1"
+            android:parentActivityName="com.outpost20.whycry.MainActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.outpost20.whycry.Question2"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.outpost20.whycry.Question3"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.outpost20.whycry.Question4"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.outpost20.whycry.Question5"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.outpost20.whycry.Question6"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.outpost20.whycry.Question7"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.outpost20.whycry.Select"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.outpost20.whycry.Question7_no"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.outpost20.whycry.Question6_no"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.outpost20.whycry.Question8"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.outpost20.whycry.Question9"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.outpost20.whycry.Question10"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.outpost20.whycry.Question8_yes"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.outpost20.whycry.Question11"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.outpost20.whycry.Question1_no"
+            android:screenOrientation="portrait" />
+    </application>
+
+</manifest>
